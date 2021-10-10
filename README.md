@@ -15,4 +15,4 @@ This model was created for all who want to detect the motion hanstand.
 
 
 # License
-- This application is under [MIT License](https://github.com/ai-coach-eiji/annotation_app_dlc/blob/main/LICENSE).
+- This application is under [MIT License](https://github.com/ai-coach-eiji/handstand-model/blob/main/LICENSE).
