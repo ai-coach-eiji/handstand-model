@@ -3,8 +3,8 @@ This model was created for all who want to detect the motion hanstand.
 
 
 # ToDo
-- [] Data collection
-- [] Model construction
+- [ ] Data collection
+- [ ] Model construction
 
 
 # Reference
@@ -15,4 +15,4 @@ This model was created for all who want to detect the motion hanstand.
 
 
 # License
-- This application is under [MIT License](https://github.com/ai-coach-eiji/handstand-model/blob/main/LICENSE).
+- This model is under [MIT License](https://github.com/ai-coach-eiji/handstand-model/blob/main/LICENSE).
