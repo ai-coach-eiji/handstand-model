@@ -9,6 +9,7 @@ This model was created for all who want to detect the motion hanstand.
 
 # Reference
 - Handstand video: [Video by Anastasia Shuraeva from Pexels](https://www.pexels.com/video/woman-doing-a-handstand-4943921/)
+- Handstand video2: [Video by Pavel Danilyuk from Pexels](Video by Pavel Danilyuk from Pexels)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
